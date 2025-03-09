@@ -1,0 +1,16 @@
+Network,Clustering,Removed Edges
+cen_cleaned,CPM_0.01,92050112
+cen_cleaned,CPM_0.001,92041851
+cen_cleaned,Modularity_,87708873
+cit_hepph_cleaned,CPM_0.01,420759
+cit_hepph_cleaned,CPM_0.001,420233
+cit_hepph_cleaned,Modularity_,420093
+cit_patents_cleaned,CPM_0.01,16518947
+cit_patents_cleaned,CPM_0.001,16518947
+cit_patents_cleaned,Modularity_,16518947
+wiki_topcats_cleaned,CPM_0.01,24952904
+wiki_topcats_cleaned,CPM_0.001,23753016
+wiki_topcats_cleaned,Modularity_,18910902
+wiki_talk_cleaned,CPM_0.01,4657928
+wiki_talk_cleaned,CPM_0.001,4633403
+wiki_talk_cleaned,Modularity_,4264176

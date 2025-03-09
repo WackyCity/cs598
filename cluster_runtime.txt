@@ -1,0 +1,16 @@
+Network	Model	Resolution	RunTime(s)
+cen_cleaned	CPM	0.01	1883.2905 seconds
+cen_cleaned	CPM	0.001	1809.6929 seconds
+cen_cleaned	Modularity	None	1356.5278 seconds
+wiki_topcats_cleaned	CPM	0.01	388.9106 seconds
+wiki_topcats_cleaned	CPM	0.001	382.5509 seconds
+wiki_topcats_cleaned	Modularity	None	285.2182 seconds
+cit_patents_cleaned	CPM	0.01	260.4978 seconds
+cit_patents_cleaned	CPM	0.001	256.4633 seconds
+cit_patents_cleaned	Modularity	None	269.4667 seconds
+cit_hepph_cleaned	CPM	0.01	2.6524 seconds
+cit_hepph_cleaned	CPM	0.001	2.7900 seconds
+cit_hepph_cleaned	Modularity	None	2.4743 seconds
+wiki_talk_cleaned	CPM	0.01	135.3879 seconds
+wiki_talk_cleaned	CPM	0.001	99.7833 seconds
+wiki_talk_cleaned	Modularity	None	55.0644 seconds
